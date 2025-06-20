@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+joblib
+scikit-learn
+dotenv
+seaborn
+verbose_print
